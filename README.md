@@ -84,5 +84,5 @@ organization, especially on collaborative projects.
 I recommend learning the same way I did, which is to take some online class (there are a multitude of good ones) to 
 help learn some basic syntax and execution. Then, start a project that you care about. Applying it to something you 
 want to do is the best way to learn. Read other people's code as well. Read the documentation of packages you're using.
-It may be tempting to copy and paste straight from stackoverflow of ChatGpt, but if you take the time to actually
+It may be tempting to copy and paste straight from stackoverflow or ChatGpt, but if you take the time to actually
 understand what the code does, it will help you learn.
