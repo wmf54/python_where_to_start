@@ -1,4 +1,5 @@
-# Introduction
+# How To Get Started With Python
+## Introduction
 I have been using Python for work for several years now, and I try to be a vocal proponent of its utility in science
 and engineering. Becasue of this, I have been asked by several people, that are already trained scientists or engineers, 
 how to get started with Python. The purpose of this is to document some frequently asked questions and answers I have 
