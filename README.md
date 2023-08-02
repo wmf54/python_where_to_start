@@ -31,7 +31,7 @@ notepad if you really want to, but you really don't want to.
 ### Pycharm
 This is the one I've been using for awhile now, and I've become
 pretty partial to it. It makes It easy to use virtual environments for specific
-projects because it focuses around different projects with their own virtual environments. It has a very nice variable browser with some color coding. You can download
+projects because it naturally organizes by project and helps set up a virtual environment with new projects. It has a very nice variable browser with some color coding. You can download
 Pycharm from jetbrain's (the company behind Pycharm) website.
 It is a little more difficult to use than Spyder in the beginning, and I
 think that is because of its customizability. You can still manage virtual environments and packages through Anaconda's
