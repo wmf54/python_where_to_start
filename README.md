@@ -85,8 +85,8 @@ I recommend learning the same way I did, which is to take some online class (the
 help learn some basic syntax and execution. Then, start a project that you care about. Applying it to something you 
 want to do is the best way to learn. Read other people's code as well. Read the documentation of packages you're using.
 It may be tempting to copy and paste straight from stackoverflow or ChatGpt, but if you take the time to actually
-understand what the code does, it will help you learn.
-- Python along with many of its packages have very good documentation. There is a tutorial on using Python in the Python documentation.
+understand what the code does, it will help you learn. Here are some good places to start learning Python.
+- There is a tutorial on using Python in the Python documentation. Python along with many of its packages have very good documentation. 
   - <https://docs.python.org/3/tutorial/index.html>
 - Codeacademy has a beginner friendly Python course that is free.
   - <https://www.codecademy.com/catalog/language/python>
