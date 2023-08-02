@@ -31,17 +31,20 @@ notepad if you really want to, but you really don't want to.
 ### Pycharm
 This is the one I've been using for awhile now, and I've become
 pretty partial to it. It makes It easy to use virtual environments for specific
-projects because it naturally organizes by project and helps set up a virtual environment with new projects. It has a very nice variable browser with some color coding. You can download
-Pycharm from jetbrain's (the company behind Pycharm) website.
-It is a little more difficult to use than Spyder in the beginning, and I
-think that is because of its customizability. You can still manage virtual environments and packages through Anaconda's
-GUI when using Pycharm with Anaconda. I believe Anaconda also allows you to download Pycharm through their GUI.
+projects because it naturally organizes by project and helps set up a virtual environment with new projects. It has a 
+very nice variable browser with some color coding. You can download Pycharm from jetbrain's (the company behind Pycharm)
+website. It is a little more difficult to use than Spyder in the beginning, and I think that is because of its 
+customizability. You can still manage virtual environments and packages through Anaconda's GUI when using Pycharm with 
+Anaconda. I believe Anaconda also allows you to download Pycharm through their GUI.
 
 ### Spyder
-This is the IDE distributed with Anaconda. I know several people that use Spyder and like it. Packages and environments can be managed and installed through Anaconda's GUI, but I don't think they can through Spyder (may be wrong). I believe it also has Jupyter Notebook support.
+This is the IDE distributed with Anaconda. I know several people that use Spyder and like it. Packages and environments 
+can be managed and installed through Anaconda's GUI, but I don't think they can through Spyder (may be wrong). I believe
+it also has Jupyter Notebook support.
 
 ### VSCode
-I know next to nothing about VScode. It is used by many software developers, especially those that need to swap between multiple different languages.
+I know next to nothing about VScode. It is used by many software developers, especially those that need to swap between 
+multiple different languages.
 
 ### Jupyter Notebooks and Jupyter Labs
 Jupyter Notebooks are pretty popular in the data science world. They are
@@ -55,8 +58,8 @@ code editor.
 
 ## What are packages and which ones are commonly used for scientists and engineers?
 Packages are pre-coded functions another person or group has created and put
-together in a way to be reused by other people. Packages are a huge reason behind Python's widely seen success. Python comes with many built in packages
-that are used frequently such as: os, sys, itertools, math, etc. Here are
+together in a way to be reused by other people. Packages are a huge reason behind Python's widely seen success. 
+Python comes with many built in packages that are used frequently such as: os, sys, itertools, math, etc. Here are
 some third party packages that are used frequently in science and
 engineering applications.
 - NumPy - Numerical Python. Some notable included features: arrays, matrix and
@@ -86,11 +89,13 @@ help learn some basic syntax and execution. Then, start a project that you care 
 want to do is the best way to learn. Read other people's code as well. Read the documentation of packages you're using.
 It may be tempting to copy and paste straight from stackoverflow or ChatGpt, but if you take the time to actually
 understand what the code does, it will help you learn. Here are some good places to start learning Python.
-- There is a tutorial on using Python in the Python documentation. Python along with many of its packages have very good documentation. 
+- There is a tutorial on using Python in the Python documentation. Python along with many of its packages have very 
+good documentation. 
   - <https://docs.python.org/3/tutorial/index.html>
 - Codeacademy has a beginner friendly Python course that is free.
   - <https://www.codecademy.com/catalog/language/python>
-- If you prefer book format, Automate the Boring Stuff by Al Sweigart is a popular choice. It is also free to read online.
+- If you prefer book format, Automate the Boring Stuff by Al Sweigart is a popular choice. It is also free to read 
+online.
   - <https://automatetheboringstuff.com/#toc>
 - Python Crash Course by Eric Matthes is another popular book for beginners. This one is not freely available.
   - <https://ehmatthes.github.io/pcc/>
